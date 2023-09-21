@@ -1,1 +1,1 @@
-# student_database_management
+This repository contains a Student Database Management System that allows you to efficiently store, manage, and retrieve student information. Whether you're an educational institution or an organization that needs to keep track of student data, this system simplifies the process.
